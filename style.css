@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    background-color: #f5ebe0;
+    width: 100vw; height: 10vh;
+    font-size: 3vw;
+}
+header a{
+    color: black;
+}
+header a:hover{
+    color: #D6CCC2;
+}
+
+footer{
+    text-align: center; 
+    vertical-align: middle;
+    background-color: #F5EBE0;
+    font-size: 3vh;
+    width: 100vw; height:10vh;
+}
+
+
+.index_main{
+    background-color: #E3D5CA;
+    width: 100vw;
+    height: 80vh;
+}
+
+.index_blok{
+    float: left;
+    font-size:x-large;
+    width: 45vw;
+    margin: 2vw;
+    padding: 2vw;
+}
+
+.historia_main{
+    background-color: #E3D5CA;
+    height: 80vh;
+    width: 100vw;
+}
+.historia_blok{
+    float: left;
+    width: 45vw;
+    margin: 2vw;
+    padding: 2vw;
+    height: 25vh;
+    font-size: x-large;
+}
+
+.projekty_main{
+    background-color: #E3D5CA;
+    width: 100vw;
+    height: 80vh;
+}
+.projekty_blok{
+    float: left;
+    width: 45vw;
+    margin: 2vw;
+    padding: 2vw;
+    font-size:xx-large;
+}
+.projekty_lista{
+    background-color: #D6CCC2;
+    width: 45vw;
+}
+.projekty_lista li{
+    font-size:x-large;
+}
+.ciekawostki_main{
+    background-color: #E3D5CA;
+    width: 100vw;
+    height: 80vh;
+}
+.ciekawostki_lista{
+    float: left;
+    font-size: xx-large;
+    background-color: #D5BDAF;
+    width: 45vw;
+    padding: 2vw;
+    margin: 2vw;
+}
+.ciekawostki_lista img{
+    max-width: 40vw;
+    max-height: auto;
+}
+
+/*
+
+edede9
+d6ccc2
+f5ebe0
+e3d5ca
+d5bdaf
+paleta: https://coolors.co/palette/edede9-d6ccc2-f5ebe0-e3d5ca-d5bdaf
+*/
